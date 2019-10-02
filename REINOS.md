@@ -1,6 +1,5 @@
 # juegodetronos
-JUego de tronos
-7 temporadas
+JUego de7 temporadas
 Acaba de finalizar la septima temporada
 
 
